@@ -23,8 +23,8 @@ module FancyDance
   
   
   module ClassMethods
-    def megajump 
-      "I'm a whole class of MOFO's jumping"
+    def metadata
+      "This class produces objects that love to dance."
     end
   end 
 end
