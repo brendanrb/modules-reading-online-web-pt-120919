@@ -1,3 +1,5 @@
+require_relative "./fancy_dance.rb"
+
 module MetaDancing
  
   def metadata
