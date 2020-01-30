@@ -22,7 +22,8 @@ module FancyDance
   end
   
   
-  module ClassMethods                
+  module ClassMethods           
+    extend Metadata
     def megajump 
       "I'm a whole class of MOFO's jumping"
     end
