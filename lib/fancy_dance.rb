@@ -20,6 +20,8 @@ module FancyDance
       "Thank you, thank you. It was a pleasure to dance for you all."
     end
   end
+  
+  
   module ClassMethods                
     def megajump 
       "I'm a whole class of MOFO's jumping"
