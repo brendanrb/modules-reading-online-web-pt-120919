@@ -1,5 +1,6 @@
 require_relative "./dance_module"
 require_relative "./class_methods_module"
+require_relative "./fancy_dance.rb"
 
 class Kid
   include Dance
