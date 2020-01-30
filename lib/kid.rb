@@ -1,4 +1,4 @@
-require_relative "./dance_module"
++require_relative "./dance_module"
 require_relative "./class_methods_module"
 
 class Kid
